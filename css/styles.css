@@ -1,0 +1,14 @@
+.card {
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url("../WCCFwarhammer40kspacemarine2.jpg");
+    background-size: cover;
+    padding: 5%;
+    border: solid, rgba(0, 0, 0, 0.5);
+}
+
+h2 {
+    color: chartreuse;
+}
+
+.cardInfo {
+    color: #ffffff;
+}
